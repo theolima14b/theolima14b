@@ -7,7 +7,7 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/theobplima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@theo-lima-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/theobplima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@theobplima-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:theo.suporte@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-theo.suporte@hotmail.com-blue?style=flat&logo=hotmail"></a>
 </p>
 
