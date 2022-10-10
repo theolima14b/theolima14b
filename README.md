@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theolima14b&label=Profile%20views&color=0e75b6&style=flat" alt="theolima14b" /> </p>
+
 <h1 align="center">Olá, me chamo Theo Lima</h1>
 <h3 align="center">Um apaixonado por Programação e Games.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theolima14b&label=Profile%20views&color=0e75b6&style=flat" alt="theolima14b" /> </p>
 
 -----
 
