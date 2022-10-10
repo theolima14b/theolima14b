@@ -23,7 +23,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theolima14b&theme=monokai&show_icons=true&locale=pt-br" alt="theolima14b" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theolima14b&theme=monokai&locale=pt-br"/>
 </p>
-
------
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theolima14b&show_icons=true&locale=en" alt="theolima14b" /></p>
