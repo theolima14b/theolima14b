@@ -30,8 +30,3 @@
 </p>
 
 -----
-
-<div align="center">
-<img alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22kjkrlxrfhibyw77szqqw5zi"/>
-<img alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22kjkrlxrfhibyw77szqqw5zi&cover_image=true&theme=default"/>
-</div>
