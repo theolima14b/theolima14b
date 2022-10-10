@@ -2,6 +2,7 @@
 
 <h1 align="center">Olá, me chamo Theo Lima</h1>
 <h3 align="center">Um apaixonado por Programação e Games.</h3>
+<h3 align="Left">Este é meu repositório pessoal que contém estudos na área de computação. Sinta-se a vontade para deixar contribuições ou me seguir nas redes sociais.</h3>
 
 -----
 
